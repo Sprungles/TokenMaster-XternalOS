@@ -1,1 +1,1 @@
-**Package for XtneralOS packages management**
+**Package for XternalOS packages management**
